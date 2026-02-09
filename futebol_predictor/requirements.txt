@@ -1,0 +1,51 @@
+# Dependências 
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+lightgbm>=4.0.0
+
+# APIs & Web
+requests>=2.31.0
+aiohttp>=3.8.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+
+# LLM & NLP
+openai>=1.0.0  # Para GPT-4/GPT-3.5
+langchain>=0.0.200
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+
+# Otimização & Stats
+cvxpy>=1.3.0
+pulp>=2.7.0
+statsmodels>=0.14.0
+
+# Email & Reports
+premailer>=3.10.0
+jinja2>=3.1.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Scheduling & Async
+schedule>=1.2.0
+apscheduler>=3.10.0
+asyncio
+
+# Database & Cache
+redis>=4.5.0
+sqlalchemy>=2.0.0
+pickle-mixin
+
+# Utils
+tqdm>=4.65.0
+loguru>=0.7.0
+colorama>=0.4.0
+python-multipart
+pytest>=7.0.0

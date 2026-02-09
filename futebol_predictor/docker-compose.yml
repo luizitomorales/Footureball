@@ -1,0 +1,56 @@
+# Docker Compose 
+version: '3.8'
+
+services:
+  # Aplicação principal
+  predictor:
+    build: .
+    container_name: football_predictor
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./reports:/app/reports
+      - .env:/app/.env
+    environment:
+      - TZ=America/Sao_Paulo
+    restart: unless-stopped
+    command: python run_pipeline.py --daemon
+  
+  # Redis para cache
+  redis:
+    image: redis:7-alpine
+    container_name: betting_cache
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+  
+  # PostgreSQL para dados
+  postgres:
+    image: postgres:15-alpine
+    container_name: betting_db
+    environment:
+      POSTGRES_DB: betting
+      POSTGRES_USER: predictor
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-changeme}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+  
+  # Ollama para LLM local (opcional)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: llm_analyzer
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+volumes:
+  redis_data:
+  postgres_data:
+  ollama_data:

@@ -1,0 +1,31 @@
+futebol_predictor/
+├── 📁 data/
+│   ├── raw/              # Dados brutos das APIs
+│   ├── processed/        # Features processadas
+│   ├── models/           # Modelos treinados
+│   └── cache/            # Cache de LLM e APIs
+│
+├── 📁 src/
+│   ├── 📄 config.py      # Configurações e constantes
+│   ├── 📄 api_client.py  # Clientes das APIs
+│   ├── 📄 features.py    # Engenharia de features
+│   ├── 📄 models.py      # Modelos ML/DL
+│   ├── 📄 optimizer.py   # Otimizador de apostas
+│   ├── 📄 llm_integration.py  # Integração com LLM
+│   ├── 📄 reporter.py    # Gerador de relatórios
+│   ├── 📄 emailer.py     # Sistema de email
+│   ├── 📄 feedback.py    # Sistema de retroalimentação
+│   └── 📄 scheduler.py   # Agendador inteligente
+│
+├── 📁 scripts/
+│   ├── 📄 setup_env.sh   # Script de setup
+│   ├── 📄 run_pipeline.py # Pipeline principal
+│   ├── 📄 train_models.py # Treinamento de modelos
+│   └── 📄 backtest.py    # Backtesting
+│
+├── 📁 logs/              # Logs do sistema
+├── 📁 reports/           # Relatórios gerados
+├── 📄 .env              # Variáveis de ambiente
+├── 📄 requirements.txt  # Dependências
+├── 📄 docker-compose.yml # Docker (opcional)
+└── 📄 README.md         # Documentação
