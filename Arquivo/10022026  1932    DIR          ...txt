@@ -1,0 +1,995 @@
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            46.476 six.cpython-311.pyc
+10/02/2026  19:32               234 __init__.cpython-311.pyc
+               2 arquivo(s)         46.710 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\urllib3\util    
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             4.901 connection.py
+10/02/2026  19:32             1.605 proxy.py
+10/02/2026  19:32               498 queue.py
+10/02/2026  19:32             3.997 request.py
+10/02/2026  19:32             3.510 response.py
+10/02/2026  19:32            22.013 retry.py
+10/02/2026  19:32             6.895 ssltransport.py
+10/02/2026  19:32            17.177 ssl_.py
+10/02/2026  19:32             5.758 ssl_match_hostname.py
+10/02/2026  19:32            10.168 timeout.py
+10/02/2026  19:32            14.296 url.py
+10/02/2026  19:32             5.403 wait.py
+10/02/2026  19:32             1.155 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              13 arquivo(s)         97.376 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             5.163 connection.cpython-311.pyc
+10/02/2026  19:32             1.745 proxy.cpython-311.pyc
+10/02/2026  19:32             1.528 queue.cpython-311.pyc
+10/02/2026  19:32             4.648 request.cpython-311.pyc
+10/02/2026  19:32             3.517 response.cpython-311.pyc
+10/02/2026  19:32            22.797 retry.cpython-311.pyc
+10/02/2026  19:32            11.656 ssltransport.cpython-311.pyc
+10/02/2026  19:32            16.848 ssl_.cpython-311.pyc
+10/02/2026  19:32             5.827 ssl_match_hostname.cpython-311.pyc
+10/02/2026  19:32            11.370 timeout.cpython-311.pyc
+10/02/2026  19:32            17.611 url.cpython-311.pyc
+10/02/2026  19:32             5.030 wait.cpython-311.pyc
+10/02/2026  19:32             1.436 __init__.cpython-311.pyc
+              13 arquivo(s)        109.176 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\urllib3\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            22.093 connection.cpython-311.pyc
+10/02/2026  19:32            38.305 connectionpool.cpython-311.pyc
+10/02/2026  19:32            16.151 exceptions.cpython-311.pyc
+10/02/2026  19:32            11.444 fields.cpython-311.pyc
+10/02/2026  19:32             4.525 filepost.cpython-311.pyc
+10/02/2026  19:32            21.643 poolmanager.cpython-311.pyc
+10/02/2026  19:32             7.696 request.cpython-311.pyc
+10/02/2026  19:32            36.571 response.cpython-311.pyc
+10/02/2026  19:32            18.325 _collections.cpython-311.pyc
+10/02/2026  19:32               247 _version.cpython-311.pyc
+10/02/2026  19:32             3.737 __init__.cpython-311.pyc
+              11 arquivo(s)        180.737 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\webencodings    
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.979 labels.py
+10/02/2026  19:32             1.305 mklabels.py
+10/02/2026  19:32             6.563 tests.py
+10/02/2026  19:32             4.307 x_user_defined.py
+10/02/2026  19:32            10.579 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               5 arquivo(s)         31.733 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\webencodings\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             7.310 labels.cpython-311.pyc
+10/02/2026  19:32             3.238 mklabels.cpython-311.pyc
+10/02/2026  19:32            11.216 tests.cpython-311.pyc
+10/02/2026  19:32             3.590 x_user_defined.cpython-311.pyc
+10/02/2026  19:32            12.910 __init__.cpython-311.pyc
+               5 arquivo(s)         38.264 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\_vendor\__pycache__     
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            46.440 six.cpython-311.pyc
+10/02/2026  19:32           131.610 typing_extensions.cpython-311.pyc
+10/02/2026  19:32             5.688 __init__.cpython-311.pyc
+               3 arquivo(s)        183.738 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32               796 __init__.cpython-311.pyc
+10/02/2026  19:32               915 __main__.cpython-311.pyc
+10/02/2026  19:32             2.534 __pip-runner__.cpython-311.pyc
+               3 arquivo(s)          4.245 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pip-24.0.dist-info
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            10.388 AUTHORS.txt
+10/02/2026  19:32               125 entry_points.txt
+10/02/2026  19:32                 4 INSTALLER
+10/02/2026  19:32             1.093 LICENSE.txt
+10/02/2026  19:32             3.581 METADATA
+10/02/2026  19:32            78.960 RECORD
+10/02/2026  19:32                 0 REQUESTED
+10/02/2026  19:32                 4 top_level.txt
+10/02/2026  19:32                92 WHEEL
+               9 arquivo(s)         94.247 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32    <DIR>          extern
+10/02/2026  19:32    <DIR>          _vendor
+10/02/2026  19:32           108.568 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)        108.568 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\extern        
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             2.426 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)          2.426 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\extern\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             4.346 __init__.cpython-311.pyc
+               1 arquivo(s)          4.346 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor       
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            24.701 appdirs.py
+10/02/2026  19:32    <DIR>          importlib_resources
+10/02/2026  19:32    <DIR>          jaraco
+10/02/2026  19:32    <DIR>          more_itertools
+10/02/2026  19:32    <DIR>          packaging
+10/02/2026  19:32    <DIR>          pyparsing
+10/02/2026  19:32             8.425 zipp.py
+10/02/2026  19:32                 0 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               3 arquivo(s)         33.126 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             3.886 abc.py
+10/02/2026  19:32             3.566 readers.py
+10/02/2026  19:32             2.836 simple.py
+10/02/2026  19:32             4.504 _adapters.py
+10/02/2026  19:32             2.741 _common.py
+10/02/2026  19:32             2.706 _compat.py
+10/02/2026  19:32               884 _itertools.py
+10/02/2026  19:32             3.494 _legacy.py
+10/02/2026  19:32               506 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               9 arquivo(s)         25.123 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             7.522 abc.cpython-311.pyc
+10/02/2026  19:32             8.396 readers.cpython-311.pyc
+10/02/2026  19:32             6.418 simple.cpython-311.pyc
+10/02/2026  19:32            10.778 _adapters.cpython-311.pyc
+10/02/2026  19:32             4.305 _common.cpython-311.pyc
+10/02/2026  19:32             5.590 _compat.cpython-311.pyc
+10/02/2026  19:32             1.423 _itertools.cpython-311.pyc
+10/02/2026  19:32             6.521 _legacy.cpython-311.pyc
+10/02/2026  19:32               861 __init__.cpython-311.pyc
+               9 arquivo(s)         51.814 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             5.420 context.py
+10/02/2026  19:32            13.515 functools.py
+10/02/2026  19:32    <DIR>          text
+10/02/2026  19:32                 0 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               3 arquivo(s)         18.935 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\text
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            15.526 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)         15.526 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\text\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            26.637 __init__.cpython-311.pyc
+               1 arquivo(s)         26.637 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             9.457 context.cpython-311.pyc
+10/02/2026  19:32            20.320 functools.cpython-311.pyc
+10/02/2026  19:32               234 __init__.cpython-311.pyc
+               3 arquivo(s)         30.011 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32           132.569 more.py
+10/02/2026  19:32            18.410 recipes.py
+10/02/2026  19:32                83 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               3 arquivo(s)        151.062 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32           167.989 more.cpython-311.pyc
+10/02/2026  19:32            26.980 recipes.cpython-311.pyc
+10/02/2026  19:32               328 __init__.cpython-311.pyc
+               3 arquivo(s)        195.297 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.496 markers.py
+10/02/2026  19:32             4.706 requirements.py
+10/02/2026  19:32            30.110 specifiers.py
+10/02/2026  19:32            15.699 tags.py
+10/02/2026  19:32             4.200 utils.py
+10/02/2026  19:32            14.665 version.py
+10/02/2026  19:32            11.488 _manylinux.py
+10/02/2026  19:32             4.378 _musllinux.py
+10/02/2026  19:32             1.431 _structures.py
+10/02/2026  19:32               661 __about__.py
+10/02/2026  19:32               497 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              11 arquivo(s)         96.331 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            16.570 markers.cpython-311.pyc
+10/02/2026  19:32             7.685 requirements.cpython-311.pyc
+10/02/2026  19:32            34.399 specifiers.cpython-311.pyc
+10/02/2026  19:32            21.384 tags.cpython-311.pyc
+10/02/2026  19:32             6.719 utils.cpython-311.pyc
+10/02/2026  19:32            21.911 version.cpython-311.pyc
+10/02/2026  19:32            13.265 _manylinux.cpython-311.pyc
+10/02/2026  19:32             8.033 _musllinux.cpython-311.pyc
+10/02/2026  19:32             3.721 _structures.cpython-311.pyc
+10/02/2026  19:32               678 __about__.cpython-311.pyc
+10/02/2026  19:32               599 __init__.cpython-311.pyc
+              11 arquivo(s)        134.964 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             6.426 actions.py
+10/02/2026  19:32            12.936 common.py
+10/02/2026  19:32           213.310 core.py
+10/02/2026  19:32    <DIR>          diagram
+10/02/2026  19:32             9.023 exceptions.py
+10/02/2026  19:32            39.129 helpers.py
+10/02/2026  19:32            25.341 results.py
+10/02/2026  19:32            13.402 testing.py
+10/02/2026  19:32            10.787 unicode.py
+10/02/2026  19:32             6.805 util.py
+10/02/2026  19:32             9.159 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              10 arquivo(s)        346.318 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing\diagram
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            23.668 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)         23.668 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing\diagram\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            28.035 __init__.cpython-311.pyc
+               1 arquivo(s)         28.035 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.498 actions.cpython-311.pyc
+10/02/2026  19:32            14.820 common.cpython-311.pyc
+10/02/2026  19:32           277.672 core.cpython-311.pyc
+10/02/2026  19:32            12.962 exceptions.cpython-311.pyc
+10/02/2026  19:32            53.663 helpers.cpython-311.pyc
+10/02/2026  19:32            36.346 results.cpython-311.pyc
+10/02/2026  19:32            19.542 testing.cpython-311.pyc
+10/02/2026  19:32            15.400 unicode.cpython-311.pyc
+10/02/2026  19:32            14.299 util.cpython-311.pyc
+10/02/2026  19:32             8.372 __init__.cpython-311.pyc
+              10 arquivo(s)        461.574 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            29.475 appdirs.cpython-311.pyc
+10/02/2026  19:32            16.020 zipp.cpython-311.pyc
+10/02/2026  19:32               227 __init__.cpython-311.pyc
+               3 arquivo(s)         45.722 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\pkg_resources\__pycache__   
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32           159.599 __init__.cpython-311.pyc
+               1 arquivo(s)        159.599 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             7.346 archive_util.py
+10/02/2026  19:32            19.539 build_meta.py
+10/02/2026  19:32            65.536 cli-32.exe
+10/02/2026  19:32            74.752 cli-64.exe
+10/02/2026  19:32           137.216 cli-arm64.exe
+10/02/2026  19:32            65.536 cli.exe
+10/02/2026  19:32    <DIR>          command
+10/02/2026  19:32    <DIR>          config
+10/02/2026  19:32             5.499 depends.py
+10/02/2026  19:32               949 dep_util.py
+10/02/2026  19:32            20.799 discovery.py
+10/02/2026  19:32            45.578 dist.py
+10/02/2026  19:32             2.464 errors.py
+10/02/2026  19:32             5.591 extension.py
+10/02/2026  19:32    <DIR>          extern
+10/02/2026  19:32             4.873 glob.py
+10/02/2026  19:32            65.536 gui-32.exe
+10/02/2026  19:32            75.264 gui-64.exe
+10/02/2026  19:32           137.728 gui-arm64.exe
+10/02/2026  19:32            65.536 gui.exe
+10/02/2026  19:32             3.824 installer.py
+10/02/2026  19:32               812 launch.py
+10/02/2026  19:32             1.210 logging.py
+10/02/2026  19:32             4.857 monkey.py
+10/02/2026  19:32            47.724 msvc.py
+10/02/2026  19:32             3.093 namespaces.py
+10/02/2026  19:32            40.020 package_index.py
+10/02/2026  19:32               245 py34compat.py
+10/02/2026  19:32            14.348 sandbox.py
+10/02/2026  19:32               218 script (dev).tmpl
+10/02/2026  19:32               138 script.tmpl
+10/02/2026  19:32               941 unicode_utils.py
+10/02/2026  19:32               144 version.py
+10/02/2026  19:32             8.376 wheel.py
+10/02/2026  19:32               718 windows_support.py
+10/02/2026  19:32               218 _deprecation_warning.py
+10/02/2026  19:32    <DIR>          _distutils
+10/02/2026  19:32             1.972 _entry_points.py
+10/02/2026  19:32             2.392 _imp.py
+10/02/2026  19:32             1.311 _importlib.py
+10/02/2026  19:32               675 _itertools.py
+10/02/2026  19:32               749 _path.py
+10/02/2026  19:32               501 _reqs.py
+10/02/2026  19:32    <DIR>          _vendor
+10/02/2026  19:32             8.429 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              40 arquivo(s)        942.657 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\command
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             2.381 alias.py
+10/02/2026  19:32            16.623 bdist_egg.py
+10/02/2026  19:32             1.182 bdist_rpm.py
+10/02/2026  19:32             6.595 build.py
+10/02/2026  19:32             4.415 build_clib.py
+10/02/2026  19:32            15.821 build_ext.py
+10/02/2026  19:32            14.115 build_py.py
+10/02/2026  19:32             7.012 develop.py
+10/02/2026  19:32             4.800 dist_info.py
+10/02/2026  19:32            85.662 easy_install.py
+10/02/2026  19:32            31.188 editable_wheel.py
+10/02/2026  19:32            26.795 egg_info.py
+10/02/2026  19:32             5.163 install.py
+10/02/2026  19:32             2.226 install_egg_info.py
+10/02/2026  19:32             3.875 install_lib.py
+10/02/2026  19:32             2.612 install_scripts.py
+10/02/2026  19:32               628 launcher manifest.xml
+10/02/2026  19:32             4.946 py36compat.py
+10/02/2026  19:32               468 register.py
+10/02/2026  19:32             2.128 rotate.py
+10/02/2026  19:32               658 saveopts.py
+10/02/2026  19:32             7.071 sdist.py
+10/02/2026  19:32             5.086 setopt.py
+10/02/2026  19:32             8.102 test.py
+10/02/2026  19:32               462 upload.py
+10/02/2026  19:32             7.494 upload_docs.py
+10/02/2026  19:32               396 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              27 arquivo(s)        267.904 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\command\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             3.932 alias.cpython-311.pyc
+10/02/2026  19:32            25.614 bdist_egg.cpython-311.pyc
+10/02/2026  19:32             2.220 bdist_rpm.cpython-311.pyc
+10/02/2026  19:32             7.026 build.cpython-311.pyc
+10/02/2026  19:32             4.153 build_clib.cpython-311.pyc
+10/02/2026  19:32            22.040 build_ext.cpython-311.pyc
+10/02/2026  19:32            23.206 build_py.cpython-311.pyc
+10/02/2026  19:32            10.948 develop.cpython-311.pyc
+10/02/2026  19:32             8.010 dist_info.cpython-311.pyc
+10/02/2026  19:32           119.365 easy_install.cpython-311.pyc
+10/02/2026  19:32            51.443 editable_wheel.cpython-311.pyc
+10/02/2026  19:32            39.863 egg_info.cpython-311.pyc
+10/02/2026  19:32             6.845 install.cpython-311.pyc
+10/02/2026  19:32             4.158 install_egg_info.cpython-311.pyc
+10/02/2026  19:32             6.440 install_lib.cpython-311.pyc
+10/02/2026  19:32             4.309 install_scripts.cpython-311.pyc
+10/02/2026  19:32             8.066 py36compat.cpython-311.pyc
+10/02/2026  19:32             1.156 register.cpython-311.pyc
+10/02/2026  19:32             4.216 rotate.cpython-311.pyc
+10/02/2026  19:32             1.396 saveopts.cpython-311.pyc
+10/02/2026  19:32            13.468 sdist.cpython-311.pyc
+10/02/2026  19:32             7.708 setopt.cpython-311.pyc
+10/02/2026  19:32            14.649 test.cpython-311.pyc
+10/02/2026  19:32             1.120 upload.cpython-311.pyc
+10/02/2026  19:32            11.971 upload_docs.cpython-311.pyc
+10/02/2026  19:32               665 __init__.cpython-311.pyc
+              26 arquivo(s)        403.987 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\config
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            16.319 expand.py
+10/02/2026  19:32            19.304 pyprojecttoml.py
+10/02/2026  19:32            25.198 setupcfg.py
+10/02/2026  19:32            13.398 _apply_pyprojecttoml.py
+10/02/2026  19:32    <DIR>          _validate_pyproject
+10/02/2026  19:32             1.121 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               5 arquivo(s)         75.340 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            11.266 error_reporting.py
+10/02/2026  19:32             1.153 extra_validations.py
+10/02/2026  19:32             1.612 fastjsonschema_exceptions.py
+10/02/2026  19:32           269.900 fastjsonschema_validations.py
+10/02/2026  19:32             8.736 formats.py
+10/02/2026  19:32             1.038 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               6 arquivo(s)        293.705 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\config\_validate_pyproject\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            20.239 error_reporting.cpython-311.pyc
+10/02/2026  19:32             1.897 extra_validations.cpython-311.pyc
+10/02/2026  19:32             3.272 fastjsonschema_exceptions.cpython-311.pyc
+10/02/2026  19:32           192.670 fastjsonschema_validations.cpython-311.pyc
+10/02/2026  19:32            14.387 formats.cpython-311.pyc
+10/02/2026  19:32             2.348 __init__.cpython-311.pyc
+               6 arquivo(s)        234.813 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\config\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            28.274 expand.cpython-311.pyc
+10/02/2026  19:32            27.472 pyprojecttoml.cpython-311.pyc
+10/02/2026  19:32            33.056 setupcfg.cpython-311.pyc
+10/02/2026  19:32            22.563 _apply_pyprojecttoml.cpython-311.pyc
+10/02/2026  19:32             2.060 __init__.cpython-311.pyc
+               5 arquivo(s)        113.425 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\extern
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             2.512 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)          2.512 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\extern\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             4.424 __init__.cpython-311.pyc
+               1 arquivo(s)          4.424 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_distutils       
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.603 archive_util.py
+10/02/2026  19:32            14.789 bcppcompiler.py
+10/02/2026  19:32            47.369 ccompiler.py
+10/02/2026  19:32            17.973 cmd.py
+10/02/2026  19:32    <DIR>          command
+10/02/2026  19:32             4.920 config.py
+10/02/2026  19:32             9.451 core.py
+10/02/2026  19:32            12.537 cygwinccompiler.py
+10/02/2026  19:32               139 debug.py
+10/02/2026  19:32             3.423 dep_util.py
+10/02/2026  19:32             8.082 dir_util.py
+10/02/2026  19:32            50.186 dist.py
+10/02/2026  19:32             3.589 errors.py
+10/02/2026  19:32            10.270 extension.py
+10/02/2026  19:32            17.910 fancy_getopt.py
+10/02/2026  19:32            13.713 filelist.py
+10/02/2026  19:32             8.226 file_util.py
+10/02/2026  19:32             1.972 log.py
+10/02/2026  19:32            30.235 msvc9compiler.py
+10/02/2026  19:32            23.602 msvccompiler.py
+10/02/2026  19:32               217 py38compat.py
+10/02/2026  19:32               639 py39compat.py
+10/02/2026  19:32             3.517 spawn.py
+10/02/2026  19:32            18.858 sysconfig.py
+10/02/2026  19:32            12.096 text_file.py
+10/02/2026  19:32            15.641 unixccompiler.py
+10/02/2026  19:32            18.128 util.py
+10/02/2026  19:32            12.952 version.py
+10/02/2026  19:32             5.248 versionpredicate.py
+10/02/2026  19:32             1.330 _collections.py
+10/02/2026  19:32               411 _functools.py
+10/02/2026  19:32               239 _macos_compat.py
+10/02/2026  19:32            19.672 _msvccompiler.py
+10/02/2026  19:32               537 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              33 arquivo(s)        396.474 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_distutils\command
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             5.441 bdist.py
+10/02/2026  19:32             4.701 bdist_dumb.py
+10/02/2026  19:32            22.051 bdist_rpm.py
+10/02/2026  19:32             5.617 build.py
+10/02/2026  19:32             7.728 build_clib.py
+10/02/2026  19:32            31.558 build_ext.py
+10/02/2026  19:32            16.568 build_py.py
+10/02/2026  19:32             5.624 build_scripts.py
+10/02/2026  19:32             4.888 check.py
+10/02/2026  19:32             2.603 clean.py
+10/02/2026  19:32            13.137 config.py
+10/02/2026  19:32            30.221 install.py
+10/02/2026  19:32             2.779 install_data.py
+10/02/2026  19:32             2.785 install_egg_info.py
+10/02/2026  19:32             1.189 install_headers.py
+10/02/2026  19:32             8.434 install_lib.py
+10/02/2026  19:32             1.936 install_scripts.py
+10/02/2026  19:32               672 py37compat.py
+10/02/2026  19:32            11.765 register.py
+10/02/2026  19:32            19.241 sdist.py
+10/02/2026  19:32             7.477 upload.py
+10/02/2026  19:32             1.614 _framework_compat.py
+10/02/2026  19:32               430 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              23 arquivo(s)        208.459 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_distutils\command\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             6.067 bdist.cpython-311.pyc
+10/02/2026  19:32             5.792 bdist_dumb.cpython-311.pyc
+10/02/2026  19:32            23.326 bdist_rpm.cpython-311.pyc
+10/02/2026  19:32             6.122 build.cpython-311.pyc
+10/02/2026  19:32             7.825 build_clib.cpython-311.pyc
+10/02/2026  19:32            30.367 build_ext.cpython-311.pyc
+10/02/2026  19:32            17.643 build_py.cpython-311.pyc
+10/02/2026  19:32             7.894 build_scripts.cpython-311.pyc
+10/02/2026  19:32             7.556 check.cpython-311.pyc
+10/02/2026  19:32             3.224 clean.cpython-311.pyc
+10/02/2026  19:32            16.287 config.cpython-311.pyc
+10/02/2026  19:32            29.475 install.cpython-311.pyc
+10/02/2026  19:32             3.809 install_data.cpython-311.pyc
+10/02/2026  19:32             5.235 install_egg_info.cpython-311.pyc
+10/02/2026  19:32             2.392 install_headers.cpython-311.pyc
+10/02/2026  19:32             8.724 install_lib.cpython-311.pyc
+10/02/2026  19:32             3.189 install_scripts.cpython-311.pyc
+10/02/2026  19:32             1.570 py37compat.cpython-311.pyc
+10/02/2026  19:32            15.556 register.cpython-311.pyc
+10/02/2026  19:32            23.864 sdist.cpython-311.pyc
+10/02/2026  19:32            10.505 upload.cpython-311.pyc
+10/02/2026  19:32             2.814 _framework_compat.cpython-311.pyc
+10/02/2026  19:32               573 __init__.cpython-311.pyc
+              23 arquivo(s)        239.809 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_distutils\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            10.688 archive_util.cpython-311.pyc
+10/02/2026  19:32            13.514 bcppcompiler.cpython-311.pyc
+10/02/2026  19:32            46.413 ccompiler.cpython-311.pyc
+10/02/2026  19:32            18.927 cmd.cpython-311.pyc
+10/02/2026  19:32             6.076 config.cpython-311.pyc
+10/02/2026  19:32            10.020 core.cpython-311.pyc
+10/02/2026  19:32            13.644 cygwinccompiler.cpython-311.pyc
+10/02/2026  19:32               353 debug.cpython-311.pyc
+10/02/2026  19:32             4.020 dep_util.cpython-311.pyc
+10/02/2026  19:32            10.395 dir_util.cpython-311.pyc
+10/02/2026  19:32            55.442 dist.cpython-311.pyc
+10/02/2026  19:32             6.826 errors.cpython-311.pyc
+10/02/2026  19:32            10.207 extension.cpython-311.pyc
+10/02/2026  19:32            17.272 fancy_getopt.cpython-311.pyc
+10/02/2026  19:32            17.661 filelist.cpython-311.pyc
+10/02/2026  19:32            10.715 file_util.cpython-311.pyc
+10/02/2026  19:32             3.961 log.cpython-311.pyc
+10/02/2026  19:32            33.619 msvc9compiler.cpython-311.pyc
+10/02/2026  19:32            27.021 msvccompiler.cpython-311.pyc
+10/02/2026  19:32               653 py38compat.cpython-311.pyc
+10/02/2026  19:32             1.021 py39compat.cpython-311.pyc
+10/02/2026  19:32             4.490 spawn.cpython-311.pyc
+10/02/2026  19:32            22.017 sysconfig.cpython-311.pyc
+10/02/2026  19:32            11.302 text_file.cpython-311.pyc
+10/02/2026  19:32            16.558 unixccompiler.cpython-311.pyc
+10/02/2026  19:32            20.912 util.cpython-311.pyc
+10/02/2026  19:32            11.377 version.cpython-311.pyc
+10/02/2026  19:32             7.778 versionpredicate.cpython-311.pyc
+10/02/2026  19:32             2.951 _collections.cpython-311.pyc
+10/02/2026  19:32               892 _functools.cpython-311.pyc
+10/02/2026  19:32               601 _macos_compat.cpython-311.pyc
+10/02/2026  19:32            25.136 _msvccompiler.cpython-311.pyc
+10/02/2026  19:32               801 __init__.cpython-311.pyc
+              33 arquivo(s)        443.263 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32    <DIR>          importlib_metadata
+10/02/2026  19:32    <DIR>          importlib_resources
+10/02/2026  19:32    <DIR>          jaraco
+10/02/2026  19:32    <DIR>          more_itertools
+10/02/2026  19:32            15.130 ordered_set.py
+10/02/2026  19:32    <DIR>          packaging
+10/02/2026  19:32    <DIR>          pyparsing
+10/02/2026  19:32    <DIR>          tomli
+10/02/2026  19:32            87.149 typing_extensions.py
+10/02/2026  19:32             8.425 zipp.py
+10/02/2026  19:32                 0 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               4 arquivo(s)        110.704 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             1.862 _adapters.py
+10/02/2026  19:32               743 _collections.py
+10/02/2026  19:32             1.828 _compat.py
+10/02/2026  19:32             2.895 _functools.py
+10/02/2026  19:32             2.068 _itertools.py
+10/02/2026  19:32             1.154 _meta.py
+10/02/2026  19:32             2.166 _text.py
+10/02/2026  19:32            30.130 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               8 arquivo(s)         42.846 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             3.876 _adapters.cpython-311.pyc
+10/02/2026  19:32             2.223 _collections.cpython-311.pyc
+10/02/2026  19:32             2.745 _compat.cpython-311.pyc
+10/02/2026  19:32             3.663 _functools.cpython-311.pyc
+10/02/2026  19:32             2.626 _itertools.cpython-311.pyc
+10/02/2026  19:32             3.030 _meta.cpython-311.pyc
+10/02/2026  19:32             4.421 _text.cpython-311.pyc
+10/02/2026  19:32            58.263 __init__.cpython-311.pyc
+               8 arquivo(s)         80.847 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             3.886 abc.py
+10/02/2026  19:32             3.566 readers.py
+10/02/2026  19:32             2.836 simple.py
+10/02/2026  19:32             4.504 _adapters.py
+10/02/2026  19:32             2.741 _common.py
+10/02/2026  19:32             2.706 _compat.py
+10/02/2026  19:32               884 _itertools.py
+10/02/2026  19:32             3.494 _legacy.py
+10/02/2026  19:32               506 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               9 arquivo(s)         25.123 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\importlib_resources\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             7.519 abc.cpython-311.pyc
+10/02/2026  19:32             8.393 readers.cpython-311.pyc
+10/02/2026  19:32             6.415 simple.cpython-311.pyc
+10/02/2026  19:32            10.775 _adapters.cpython-311.pyc
+10/02/2026  19:32             4.302 _common.cpython-311.pyc
+10/02/2026  19:32             5.587 _compat.cpython-311.pyc
+10/02/2026  19:32             1.420 _itertools.cpython-311.pyc
+10/02/2026  19:32             6.518 _legacy.cpython-311.pyc
+10/02/2026  19:32               858 __init__.cpython-311.pyc
+               9 arquivo(s)         51.787 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\jaraco   
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             5.420 context.py
+10/02/2026  19:32            13.512 functools.py
+10/02/2026  19:32    <DIR>          text
+10/02/2026  19:32                 0 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               3 arquivo(s)         18.932 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\jaraco\text
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            15.517 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)         15.517 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\jaraco\text\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            26.625 __init__.cpython-311.pyc
+               1 arquivo(s)         26.625 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\jaraco\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             9.454 context.cpython-311.pyc
+10/02/2026  19:32            20.311 functools.cpython-311.pyc
+10/02/2026  19:32               231 __init__.cpython-311.pyc
+               3 arquivo(s)         29.996 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32           117.959 more.py
+10/02/2026  19:32            16.256 recipes.py
+10/02/2026  19:32                82 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               3 arquivo(s)        134.297 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\more_itertools\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32           149.211 more.cpython-311.pyc
+10/02/2026  19:32            23.793 recipes.cpython-311.pyc
+10/02/2026  19:32               324 __init__.cpython-311.pyc
+               3 arquivo(s)        173.328 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\packaging
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.493 markers.py
+10/02/2026  19:32             4.700 requirements.py
+10/02/2026  19:32            30.110 specifiers.py
+10/02/2026  19:32            15.699 tags.py
+10/02/2026  19:32             4.200 utils.py
+10/02/2026  19:32            14.665 version.py
+10/02/2026  19:32            11.488 _manylinux.py
+10/02/2026  19:32             4.378 _musllinux.py
+10/02/2026  19:32             1.431 _structures.py
+10/02/2026  19:32               661 __about__.py
+10/02/2026  19:32               497 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              11 arquivo(s)         96.322 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\packaging\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            16.564 markers.cpython-311.pyc
+10/02/2026  19:32             7.679 requirements.cpython-311.pyc
+10/02/2026  19:32            34.396 specifiers.cpython-311.pyc
+10/02/2026  19:32            21.381 tags.cpython-311.pyc
+10/02/2026  19:32             6.716 utils.cpython-311.pyc
+10/02/2026  19:32            21.908 version.cpython-311.pyc
+10/02/2026  19:32            13.262 _manylinux.cpython-311.pyc
+10/02/2026  19:32             8.030 _musllinux.cpython-311.pyc
+10/02/2026  19:32             3.718 _structures.cpython-311.pyc
+10/02/2026  19:32               675 __about__.cpython-311.pyc
+10/02/2026  19:32               596 __init__.cpython-311.pyc
+              11 arquivo(s)        134.925 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\pyparsing
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             6.426 actions.py
+10/02/2026  19:32            12.936 common.py
+10/02/2026  19:32           213.310 core.py
+10/02/2026  19:32    <DIR>          diagram
+10/02/2026  19:32             9.023 exceptions.py
+10/02/2026  19:32            39.129 helpers.py
+10/02/2026  19:32            25.341 results.py
+10/02/2026  19:32            13.402 testing.py
+10/02/2026  19:32            10.787 unicode.py
+10/02/2026  19:32             6.805 util.py
+10/02/2026  19:32             9.159 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+              10 arquivo(s)        346.318 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\pyparsing\diagram
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            23.668 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               1 arquivo(s)         23.668 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\pyparsing\diagram\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            28.032 __init__.cpython-311.pyc
+               1 arquivo(s)         28.032 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\pyparsing\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             8.495 actions.cpython-311.pyc
+10/02/2026  19:32            14.817 common.cpython-311.pyc
+10/02/2026  19:32           277.669 core.cpython-311.pyc
+10/02/2026  19:32            12.959 exceptions.cpython-311.pyc
+10/02/2026  19:32            53.660 helpers.cpython-311.pyc
+10/02/2026  19:32            36.343 results.cpython-311.pyc
+10/02/2026  19:32            19.539 testing.cpython-311.pyc
+10/02/2026  19:32            15.397 unicode.cpython-311.pyc
+10/02/2026  19:32            14.296 util.cpython-311.pyc
+10/02/2026  19:32             8.369 __init__.cpython-311.pyc
+              10 arquivo(s)        461.544 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\tomli    
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            22.633 _parser.py
+10/02/2026  19:32             2.943 _re.py
+10/02/2026  19:32               254 _types.py
+10/02/2026  19:32               396 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               4 arquivo(s)         26.226 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\tomli\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            30.885 _parser.cpython-311.pyc
+10/02/2026  19:32             4.525 _re.cpython-311.pyc
+10/02/2026  19:32               438 _types.cpython-311.pyc
+10/02/2026  19:32               446 __init__.cpython-311.pyc
+               4 arquivo(s)         36.294 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\_vendor\__pycache__
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            21.810 ordered_set.cpython-311.pyc
+10/02/2026  19:32           107.641 typing_extensions.cpython-311.pyc
+10/02/2026  19:32            16.017 zipp.cpython-311.pyc
+10/02/2026  19:32               224 __init__.cpython-311.pyc
+               4 arquivo(s)        145.692 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools\__pycache__      
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32            10.193 archive_util.cpython-311.pyc
+10/02/2026  19:32            28.126 build_meta.cpython-311.pyc
+10/02/2026  19:32             8.004 depends.cpython-311.pyc
+10/02/2026  19:32             1.319 dep_util.cpython-311.pyc
+10/02/2026  19:32            31.148 discovery.cpython-311.pyc
+10/02/2026  19:32            64.085 dist.cpython-311.pyc
+10/02/2026  19:32             2.980 errors.cpython-311.pyc
+10/02/2026  19:32             6.836 extension.cpython-311.pyc
+10/02/2026  19:32             6.593 glob.cpython-311.pyc
+10/02/2026  19:32             5.643 installer.cpython-311.pyc
+10/02/2026  19:32             1.559 launch.cpython-311.pyc
+10/02/2026  19:32             2.077 logging.cpython-311.pyc
+10/02/2026  19:32             7.036 monkey.cpython-311.pyc
+10/02/2026  19:32            64.209 msvc.cpython-311.pyc
+10/02/2026  19:32             5.691 namespaces.cpython-311.pyc
+10/02/2026  19:32            60.786 package_index.cpython-311.pyc
+10/02/2026  19:32               746 py34compat.cpython-311.pyc
+10/02/2026  19:32            27.362 sandbox.cpython-311.pyc
+10/02/2026  19:32             1.848 unicode_utils.cpython-311.pyc
+10/02/2026  19:32               466 version.cpython-311.pyc
+10/02/2026  19:32            15.521 wheel.cpython-311.pyc
+10/02/2026  19:32             1.463 windows_support.cpython-311.pyc
+10/02/2026  19:32               671 _deprecation_warning.cpython-311.pyc
+10/02/2026  19:32             4.820 _entry_points.cpython-311.pyc
+10/02/2026  19:32             3.684 _imp.cpython-311.pyc
+10/02/2026  19:32             1.984 _importlib.cpython-311.pyc
+10/02/2026  19:32             1.183 _itertools.cpython-311.pyc
+10/02/2026  19:32             1.504 _path.cpython-311.pyc
+10/02/2026  19:32             1.165 _reqs.cpython-311.pyc
+10/02/2026  19:32            12.936 __init__.cpython-311.pyc
+              30 arquivo(s)        381.638 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\setuptools-65.5.0.dist-info
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             2.740 entry_points.txt
+10/02/2026  19:32                 4 INSTALLER
+10/02/2026  19:32             1.050 LICENSE
+10/02/2026  19:32             6.301 METADATA
+10/02/2026  19:32            37.694 RECORD
+10/02/2026  19:32                 0 REQUESTED
+10/02/2026  19:32                41 top_level.txt
+10/02/2026  19:32                92 WHEEL
+               8 arquivo(s)         47.922 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\_distutils_hack
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32                44 override.py
+10/02/2026  19:32             6.128 __init__.py
+10/02/2026  19:32    <DIR>          __pycache__
+               2 arquivo(s)          6.172 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Lib\site-packages\_distutils_hack\__pycache__ 
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32               343 override.cpython-311.pyc
+10/02/2026  19:32            11.186 __init__.cpython-311.pyc
+               2 arquivo(s)         11.529 bytes
+
+ Pasta de C:\Users\lipsf\Documents\coding\Footureball\futebol_predictor\venv\Scripts
+
+10/02/2026  19:32    <DIR>          .
+10/02/2026  19:32    <DIR>          ..
+10/02/2026  19:32             1.802 activate
+10/02/2026  19:32             1.035 activate.bat
+10/02/2026  19:32            26.199 Activate.ps1
+10/02/2026  19:32               393 deactivate.bat
+10/02/2026  19:32           108.444 pip.exe
+10/02/2026  19:32           108.444 pip3.11.exe
+10/02/2026  19:32           108.444 pip3.exe
+10/02/2026  19:32           274.712 python.exe
+10/02/2026  19:32           263.448 pythonw.exe
+               9 arquivo(s)        892.921 bytes
+
+     Total de Arquivos na Lista:
+           14300 arquivo(s)    566.421.305 bytes
+            4747 pasta(s)   43.655.528.448 bytes disponíveis

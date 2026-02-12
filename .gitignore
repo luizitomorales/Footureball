@@ -1,0 +1,8 @@
+# Ambiente virtual
+futebol_predictor/.venv
+
+# Configurações locais
+futebol_predictor/.env
+
+# IDEs e editores
+.vscode
